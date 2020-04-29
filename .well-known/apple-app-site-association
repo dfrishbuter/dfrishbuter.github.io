@@ -3,7 +3,7 @@
         "apps": [],
         "details": [{
             "appID": "KD225VLT7Y.com.98Training.98Gym",
-            "paths": ["*"]
+            "paths": ["*", "/"]
         }]
     }
 }
